@@ -1,0 +1,2 @@
+2016-05-15 23:03:40.954 Project1[46214:3775080] Failed to connect (colorGridView) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable
+2016-05-15 23:03:40.954 Project1[46214:3775080] Failed to connect (view) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable
